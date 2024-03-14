@@ -1,0 +1,17 @@
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\bin\Debug\net7.0-windows\villogogomb.exe
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\bin\Debug\net7.0-windows\villogogomb.deps.json
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\bin\Debug\net7.0-windows\villogogomb.runtimeconfig.json
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\bin\Debug\net7.0-windows\villogogomb.dll
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\bin\Debug\net7.0-windows\villogogomb.pdb
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.csproj.AssemblyReference.cache
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.Form1.resources
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.csproj.GenerateResource.cache
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.AssemblyInfoInputs.cache
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.AssemblyInfo.cs
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.csproj.CoreCompileInputs.cache
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.dll
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\refint\villogogomb.dll
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.pdb
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\villogogomb.genruntimeconfig.cache
+C:\Users\ydxxvp\source\repos\villogogomb\villogogomb\obj\Debug\net7.0-windows\ref\villogogomb.dll
