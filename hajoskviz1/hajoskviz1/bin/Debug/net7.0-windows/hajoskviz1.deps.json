@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "hajoskviz1/1.0.0": {
+        "runtime": {
+          "hajoskviz1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hajoskviz1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
