@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bd+xcRPV+ccIjEdTv1YLFu7zilnzNIlfzlxDZNhvu06HW46QCQoCB+USRgKr1Sabs1DbULUWy0SvOvIFOAo+NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ydxxvp\\source\\repos\\Gyak7\\Gyak7\\Gyak7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ydxxvp\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
